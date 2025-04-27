@@ -1,3 +1,7 @@
+# Jogue Agora!
+
+👉 [Clique aqui para jogar o Dino Noel!](https://www.construct.net/en/free-online-games/dino-noel-75984/play)
+
 # Sobre o Jogo
 
 Este jogo foi desenvolvido com o objetivo de aprimorar habilidades em criação de games 2D.  
